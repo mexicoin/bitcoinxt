@@ -1,4 +1,4 @@
-MexiCoin XT
+MexiCoin Cash (Peso Mexicano 2.0) 
 ==========
 
 MexiCoin XT is an implementation of a Bitcoin full node that embraces Bitcoin's original vision of simple, reliable, low-cost transactions for everyone in the world. 
