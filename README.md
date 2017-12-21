@@ -1,7 +1,7 @@
-MexiCoin Cash (Peso Mexicano 2.0) 
+MexiCoin Cash (Peso Mexicano Vers 2.0) 
 ==========
 
-MexiCoin Cash (Peso Mexicano 2.0) is an implementation of a Bitcoin full node that embraces Bitcoin's original vision of simple, reliable, low-cost transactions for everyone in the world. 
+MexiCoin Cash (Peso Mexicano Vers 2.0) is an implementation of a Bitcoin full node that embraces Bitcoin's original vision of simple, reliable, low-cost transactions for everyone in the world. 
 Development process
 ===================
 
